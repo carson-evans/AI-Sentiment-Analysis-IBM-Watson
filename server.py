@@ -1,4 +1,5 @@
-'''Executing this function initiates the application of Emotion Detector 
+'''
+    Executing this function initiates the application of Emotion Detector 
    to be executed over the Flask channel and deployed on localhost:5000.
 '''
 from flask import Flask, request, render_template
