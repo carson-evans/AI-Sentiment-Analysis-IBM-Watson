@@ -2,7 +2,7 @@
 # Emotion Detector API
 
 ## Introduction
-The Emotion Detector API is a Python-Flask application that uses natural language processing to analyze text and identify the dominant emotion from the given input. It's part of an educational project for an IBM certification in developing AI applications.
+The Emotion Detector API is a Python-Flask application that uses natural language processing to analyze text and identify the dominant emotion from the given input. It's part of an educational project for an IBM certification in developing AI applications. This app only works through IBM's cloud IDE.
 
 ## Getting Started
 This section provides instructions to get the project running on your local machine for development and testing purposes.
