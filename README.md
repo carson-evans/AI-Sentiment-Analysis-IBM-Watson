@@ -2,13 +2,15 @@
 # Emotion Detector API
 
 ## Introduction
-The Emotion Detector API is a Python-Flask application that uses natural language processing to analyze text and identify the dominant emotion from the given input. It's part of an educational project for an IBM certification in developing AI applications. This app only works through IBM's cloud IDE.
+The Emotion Detector API is a Python-Flask application that uses natural language processing to analyze text and identify the dominant emotion from the given input. Part of an educational project for an IBM certification in developing AI applications on Coursera, this app only works through IBM's cloud IDE.
 
 ## Getting Started
 This section provides instructions to get the project running on your local machine for development and testing purposes.
 
 ### Prerequisites
-You need Python 3.6+ and Flask installed on your system.
+- Python
+- Flask
+- IBM CLoud IDE
 
 ### Installation
 Clone the repository and install the required dependencies within a virtual environment:
